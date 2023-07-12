@@ -14,11 +14,11 @@
 5. Click **Save Changes.**
 
 #### Next Steps:
-CBs (spontaneous/support) -> [[Step F - Entering Attendees]]
+CBs (spontaneous/support) -> [Step F - Entering Attendees](Step%20F%20-%20Entering%20Attendees.md)
 
-CBs (planned) -> [[Step F - Entering Attendees]]
+CBs (planned) -> [Step F - Entering Attendees](Step%20F%20-%20Entering%20Attendees.md)
 
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)

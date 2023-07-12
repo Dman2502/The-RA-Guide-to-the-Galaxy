@@ -5,7 +5,7 @@
 	2. Save the spreadsheet as a .csv file.
 	3. Label the file with title of the program (BobRossPainting) followed by the **ProgramID** number (32440). You can find the **ProgramID** number in the bottom left corner of the screen when when looking at the program in StarRez.  It is small text. i.e. BobRossPainting32440 could be your file name.
 	4. Send this file to your supervisor who will forward it to Christine Thoorsell who will upload them.
-	5. Also add the file as an attachment in the submission. See [[Step G - Adding Attachments]] for instructions on adding attachments.
+	5. Also add the file as an attachment in the submission. See [Step G - Adding Attachments](Step%20G%20-%20Adding%20Attachments.md) for instructions on adding attachments.
 
 - For events/interactions with **less than 25** attendees, you will need to enter them into the submission yourself by following the directions below.
 	1. Go to the upper right corner of the screen and locate the blue button that says **+New** with a down arrow. Click the arrow and select **Attendee** from the menu. This will open a dialogue box.
@@ -19,11 +19,11 @@
 	9. You should now see a new option on the left side of the screen in the menu labeled **Attendees.** You will repeat this process for each participant.
 
 #### Next Steps:
-CBs (spontaneous/support) -> [[Step G - Adding Attachments]]
+CBs (spontaneous/support) -> [Step G - Adding Attachments](Step%20G%20-%20Adding%20Attachments.md)
 
-CBs (planned) -> [[Step M - Finalizing your Submission after Planned Event]]
+CBs (planned) -> [Step M - Finalizing your Submission after Planned Event](Step%20M%20-%20Finalizing%20your%20Submission%20after%20Planned%20Event.md)
 
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)

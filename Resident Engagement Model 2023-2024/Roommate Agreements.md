@@ -1,4 +1,4 @@
-To submit a bulletin board on StarRez, head to [[RA Misc Tasks]]
+To submit a bulletin board on StarRez, head to [RA Misc Tasks](RA%20Misc%20Tasks.md)
 
 - Required for all residents
 - Due September 30 for Fall
@@ -7,4 +7,4 @@ To submit a bulletin board on StarRez, head to [[RA Misc Tasks]]
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)

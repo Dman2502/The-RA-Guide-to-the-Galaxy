@@ -4,13 +4,13 @@
 4. Click **Save Changes.**
 
 #### Next Steps:
-CBs (Spontaneous/Support) -> [[Step D - Custom Fields “Program Who”]]
+CBs (Spontaneous/Support) -> [Step D - Custom Fields “Program Who”](Step%20D%20-%20Custom%20Fields%20%E2%80%9CProgram%20Who%E2%80%9D.md)
 
-CBs (Planned) -> [[Step D - Custom Fields “Program Who”]]
+CBs (Planned) -> [Step D - Custom Fields “Program Who”](Step%20D%20-%20Custom%20Fields%20%E2%80%9CProgram%20Who%E2%80%9D.md)
 
-Ra Misc Tasks -> [[Step P - Custom Fields “RA Misc Tasks”]]
+Ra Misc Tasks -> [Step P - Custom Fields “RA Misc Tasks”](Step%20P%20-%20Custom%20Fields%20%E2%80%9CRA%20Misc%20Tasks%E2%80%9D.md)
 
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)

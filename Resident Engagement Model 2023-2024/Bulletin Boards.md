@@ -1,9 +1,9 @@
-To submit a bulletin board on StarRez, head to [[RA Misc Tasks]]
+To submit a bulletin board on StarRez, head to [RA Misc Tasks](RA%20Misc%20Tasks.md)
 
 - For opening, bulletin boards will be provided and installed where possible (some buildings might be under construction and unable to be accessed in a timely manner)
 - You can make your own content or pull from the BB catalogue *insert link to this*
 - If you have multiple boards, all must be done for Opening but only 1 needs to be changed for Board 2 & 3
-- These will be required to be entered into StarRez under the [[RA Misc Tasks]] program type and workflow
+- These will be required to be entered into StarRez under the [RA Misc Tasks](RA%20Misc%20Tasks.md) program type and workflow
 	- For opening, all boards can be submitted as one entry in StarRez
 - Due on the 15th (or first business day after) at 9am
 	- September 15, 2023/October 16, 2023 and February 15, 2024/March 18, 2024 (due to spring break)
@@ -14,4 +14,4 @@ To submit a bulletin board on StarRez, head to [[RA Misc Tasks]]
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)

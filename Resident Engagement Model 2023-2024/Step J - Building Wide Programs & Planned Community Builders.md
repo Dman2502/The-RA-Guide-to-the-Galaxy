@@ -11,11 +11,11 @@
 7. Make sure the **Edit Further** Box is checked and click **Save Changes.**
 
 #### Next Steps:
-CBs (Planned) -> [[Step C - Main Page]]
+CBs (Planned) -> [Step C - Main Page](Step%20C%20-%20Main%20Page.md)
 
 Building Wide Programs -> unknown
 
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)

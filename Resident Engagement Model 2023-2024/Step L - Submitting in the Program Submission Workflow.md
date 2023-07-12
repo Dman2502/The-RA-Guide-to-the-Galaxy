@@ -7,9 +7,9 @@
 7. Once your supervisor has assigned the submission back to you with their approval, you are now cleared to hold your event. 
 
 #### Next Steps:
-CBs (Planned) - Host Event, then proceed to [[Step E - Evaluation]]
+CBs (Planned) - Host Event, then proceed to [Step E - Evaluation](Step%20E%20-%20Evaluation.md)
 
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)

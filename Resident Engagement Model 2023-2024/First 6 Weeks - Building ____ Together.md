@@ -1,6 +1,6 @@
 The only week the RA staff and supervisors will be required to actively participate in is Week 2 for Housing week. RAs are required to take residents and attend a minimum of 2 events throughout the 6 weeks. This does not include their own side's Housing Week program
 
-For First 6 Weeks Requirements, see [[Step N - First 6 Weeks Requirements (Fall Only)]]
+For First 6 Weeks Requirements, see [Step N - First 6 Weeks Requirements (Fall Only)](Step%20N%20-%20First%206%20Weeks%20Requirements%20(Fall%20Only).md)
 
 #### Week 1 - Planning and Getting Acclimated "Building ___ Together"
 - August 20-26
@@ -57,4 +57,4 @@ For First 6 Weeks Requirements, see [[Step N - First 6 Weeks Requirements (Fall 
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)

@@ -1,4 +1,4 @@
-1. Once you have added in your Attendees ([[Step F - Entering Attendees]]) and completed your Evaluation ([[Step E - Evaluation]]) portion of the submission for any planned events, make sure you add final copies of any advertisement and/or PA’s as attachments ([[Step G - Adding Attachments]]).
+1. Once you have added in your Attendees ([Step F - Entering Attendees](Step%20F%20-%20Entering%20Attendees.md)) and completed your Evaluation ([Step E - Evaluation](Step%20E%20-%20Evaluation.md)) portion of the submission for any planned events, make sure you add final copies of any advertisement and/or PA’s as attachments ([Step G - Adding Attachments](Step%20G%20-%20Adding%20Attachments.md)).
 2. After you have completed all of the previous steps, you are ready to move your final submission forward for final review by your supervisor. To do this, select **Main** from the menu on the left side of the screen.
 3. In the upper right corner, you will see what looks like a forward button. Click the button and a dialog box will appear called **Move Workflow Step**.
 4. The first section called **Add the reason...** is not vital to our process so you may skip this.
@@ -12,4 +12,4 @@ CBs (planned) -> Complete! Unless sent back by supervisor.
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)

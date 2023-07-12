@@ -4,11 +4,11 @@
 4. Click **Save Changes.**
 
 #### Next Steps:
-CBs (spontaneous/support) -> [[Step E - Evaluation]]
+CBs (spontaneous/support) -> [Step E - Evaluation](Step%20E%20-%20Evaluation.md)
 
-CBs (planned) -> [[Step G - Adding Attachments]]
+CBs (planned) -> [Step G - Adding Attachments](Step%20G%20-%20Adding%20Attachments.md)
 
 ——————
 
 **Return to Table of Contents:**
-[[Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+[Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident%20Engagement%20Model%202023-2024%20StarRez%20Submission%20Procedures.md)
