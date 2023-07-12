@@ -5,7 +5,7 @@ The 2023-2024 academic year will have a fresh new focus in our residential livin
 ### StarRez Submission Guides & other info
 ***Please follow the guides to properly navigate the StarRez submission process!***
 
-- [[Community Builders]] - Spontaneous/Support/Planned
+- [Community Builders](Community%20Builders.md) - Spontaneous/Support/Planned
 - [[First 6 Weeks - Building ____ Together]] 
 - [[Building Wide Programs]] 
 - [[RA Misc Tasks]]
