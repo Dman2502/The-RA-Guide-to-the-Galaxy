@@ -3,7 +3,7 @@ A collection of notes for the Resident Advisor role at Texas A&amp;M University.
 Started on 11-07-2023.
 
 ## Table of Contents
-1. [[Resident Engagement Model 2023-2024/Resident Engagement Model 2023-2024 StarRez Submission Procedures]]
+1. [Resident Engagement Model 2023-2024/Resident Engagement Model 2023-2024 StarRez Submission Procedures](Resident Engagement Model 2023-2024 StarRez Submission )Procedures.md
 2. Something else
 
 
